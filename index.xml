@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Trey Hamilton</title>
+    <link>https://treyhamilton.github.io/portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Trey Hamilton</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://treyhamilton.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploratory Data Analysis and Modeling</title>
+      <link>https://treyhamilton.github.io/portfolio/post/project-1/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://treyhamilton.github.io/portfolio/post/project-1/</guid>
+      <description>In this Data Science project, we were approached by Blue Nile to perform the following tasks:
+  Use data visualizations to explore how price is related to the other variables (carat, clarity, color, cut), as well as how the other variables may relate to each other. Use these findings to address the various claims on the diamond education page on Blue Nile.
+  Fit an appropriate simple linear regression for price against carat and report the findings.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://treyhamilton.github.io/portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://treyhamilton.github.io/portfolio/about/</guid>
+      <description>Data Science and AI have been some of my passions for quite some time now. My name is Trey Hamilton and I have been studying an working in the data science field for the past year and a half. I am currently a software engineer at IBM aiding in the advancement and innovation of their hybrid cloud platform. As I first embarked on my data science journey, I felt extremely lost.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://treyhamilton.github.io/portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://treyhamilton.github.io/portfolio/contact/</guid>
+      <description>Connect with me on these social media platforms:
+GitHub: https://github.com/treyhamilton
+LinkedIn: https://www.linkedin.com/in/trey-hamilton-767835103/
+Instagram: https://www.instagram.com/trey.hamilton/
+Twitter: https://twitter.com/treydavid32
+Email: treydavid32@gmail.com</description>
+    </item>
+    
+  </channel>
+</rss>
